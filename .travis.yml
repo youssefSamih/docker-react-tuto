@@ -12,7 +12,7 @@ deploy:
   provider: elasticbeanstalk
   region: "eu-west-3"
   app: "docker-react-tuto"
-  env: "Dockerreacttuto-env"
+  env: "Dockerreacttuto-env-1"
   bucket_name: "elasticbeanstalk-eu-west-3-505495784203"
   bucket_path: "docker-react-tuto"
   on:
